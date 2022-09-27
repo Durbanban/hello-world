@@ -8,6 +8,7 @@ import { MaterialImportsModule } from './material-imports/material-imports.modul
 import { LoginComponent } from './components/login/login.component';
 import { SignupComponent } from './components/signup/signup.component';
 import { HeaderComponent } from './components/header/header.component';
+import { TablaComponent } from './components/tabla/tabla.component';
 
 
 
@@ -16,7 +17,8 @@ import { HeaderComponent } from './components/header/header.component';
     AppComponent,
     LoginComponent,
     SignupComponent,
-    HeaderComponent
+    HeaderComponent,
+    TablaComponent,
   ],
   imports: [
     BrowserModule,
