@@ -9,6 +9,7 @@ import { LoginComponent } from './components/login/login.component';
 import { SignupComponent } from './components/signup/signup.component';
 import { HeaderComponent } from './components/header/header.component';
 import { TablaComponent } from './components/tabla/tabla.component';
+import { PruebaComponent } from './components/prueba/prueba.component';
 
 
 
@@ -19,6 +20,7 @@ import { TablaComponent } from './components/tabla/tabla.component';
     SignupComponent,
     HeaderComponent,
     TablaComponent,
+    PruebaComponent,
   ],
   imports: [
     BrowserModule,
